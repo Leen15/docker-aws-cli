@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER Mohammad Naghavi <mohamnag@gmail.com>
+MAINTAINER Luca Mattivi <luca@smartdomotik.com>
 
 ADD https://s3.amazonaws.com/aws-cli/awscli-bundle.zip /
 
